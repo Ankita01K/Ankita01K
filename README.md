@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita01k&label=Profile%20views&color=0e75b6&style=flat" alt="ankita01k" /> </p>
 
+- 🔭 I’m currently working on **Sign Language Detection Using Deep Learning**
+
 - 🌱 I’m currently learning **Flask and Power BI.**
 
 - 👯 I’m looking to collaborate on **on AI-driven projects that blend creativity and technical excellence for impactful solutions.**
 
-- 💬 Ask me about **My projects**
+- 💬 Ask me about **My Projects!**
 
 - 📫 How to reach me **kanaujiyaankita730@gmail.com**
 
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita01k&show_icons=true&locale=en" alt="ankita01k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita01k&" alt="ankita01k" /></p>
-
