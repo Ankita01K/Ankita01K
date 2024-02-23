@@ -28,18 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita01k&" alt="ankita01k" /></p>
 
 
-name: Update badges
 
-on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
-jobs:
-  update-readme:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    steps:
-      - name: Badges - Readme
-        uses: Ankita01K/badge-readme@main
-        with:       
-          CREDLY_USER: <kanaujiyaankita730@gmai> # optional, but default will use the same from github
