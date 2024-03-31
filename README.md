@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita01k&label=Profile%20views&color=0e75b6&style=flat" alt="ankita01k" /> </p>
 
-- 🔭 I’m currently working on **Sign Language Detection Using Deep Learning**
+- 🔭 I’m currently working on **Sign Language Detection Using YOLO V5 and Computer Vision**
 
 - 🌱 I’m currently learning **Flask and Power BI.**
 
