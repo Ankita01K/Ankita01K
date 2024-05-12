@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Sign Language Detection Using YOLO V5 and Computer Vision**
 
-- 🌱 I’m currently learning **Flask and Power BI.**
-
 - 👯 I’m looking to collaborate on **on AI-driven projects that blend creativity and technical excellence for impactful solutions.**
 
 - 💬 Ask me about **My Projects!**
